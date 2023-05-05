@@ -1,2 +1,2 @@
 # portfolio
-making projects for job
+MY PROJECTS
